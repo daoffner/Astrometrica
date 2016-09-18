@@ -15,5 +15,18 @@ for rowOfCellObjects in sheet['A1' : x+y]:
         print(cellObj.coordinate, cellObj.value)
 
     print("---------- END OF ROW --------------")
+mpcArray= []
+i=0
+for j in range(9):
+    r= open("MPC Report"+str(j+1)+".txt", "r")
+    for line in r.readlines():
+        mpcArray.append(line.strip())
+        i=i+1
+    i=i+1
+r.close()
 
-print(sheet['A2'].value)
+f= open("mpc.txt", "w")
+for k in range(len(mpcArray)):
+    f.write("     "+mpcArray[k]+'\n')
+
+f.close()
