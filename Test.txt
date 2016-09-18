@@ -1,0 +1,26 @@
+(null)  AGD1002
+   Perihelion 2016 May 23.845683 +/- 430 TT = 20:17:47 (JD 2457532.345683)
+Epoch 2016 Apr  1.0 TT = JDT 2457479.5   Earth MOID: 0.8134   Find_Orb
+M 345.01334 +/- 60
+n   0.28359273 +/- 0.182            Peri.  134.23259 +/- 120
+a   2.29441857 +/- 0.979            Node    87.63555 +/- 36
+e   0.2080601 +/- 0.274             Incl.    5.45646 +/- 26
+P   3.48                   H 20.0   G  0.15   U 11.6  SR
+q 1.81704155 +/- 0.923    Q 2.77179558 +/- 38.3
+From 2 observations 2016 Apr. 1 (19.4 min); mean residual 0".00
+# State vector (heliocentric ecliptic J2000):
+#   -1.737411855070  -0.591493201272   0.163489205435 AU
+#    5.310836806653 -12.794646305182  -0.557292756757 mAU/day
+# MOIDs: Me  1.3681 Ve  1.0944 Ea  0.8134 Ma  0.2527
+# MOIDs: Ju  2.2085 Sa  6.3564 Ur 16.2786 Ne 27.0409
+# Elements written: 18 Sep 2016 19:07:26 (JD 2457650.296829)
+# Full range of obs: 2016 Apr. 1 (19.4 min) (2 observations)
+# Find_Orb ver: Mar 13 2016 12:08:33
+# Perturbers: 00000001 ;  not using JPL DE
+# Diameter 418.1 meters (assuming 10% albedo)
+# Score: -0.795970
+#  $Name=AGD1002  $Ty=2016  $Tm=05  $Td=23.845682  $MA=345.01335
+#  $ecc=0.2080601  $Eqnx=2000.
+#  $a=2.2944186  $Peri=134.23260  $Node=87.63555  $Incl=5.45647
+#  $EpJD=2457479.500  $q=1.817042  $T=2457532.345683  $H=20.0
+# Sigmas avail: 3
