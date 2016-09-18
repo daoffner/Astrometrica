@@ -13,7 +13,7 @@ From 2 observations 2016 Apr. 1 (19.4 min); mean residual 0".00
 #    5.310836806653 -12.794646305182  -0.557292756757 mAU/day
 # MOIDs: Me  1.3681 Ve  1.0944 Ea  0.8134 Ma  0.2527
 # MOIDs: Ju  2.2085 Sa  6.3564 Ur 16.2786 Ne 27.0409
-# Elements written: 18 Sep 2016 19:07:26 (JD 2457650.296829)
+# Elements written: 18 Sep 2016 19:32:43 (JD 2457650.314387)
 # Full range of obs: 2016 Apr. 1 (19.4 min) (2 observations)
 # Find_Orb ver: Mar 13 2016 12:08:33
 # Perturbers: 00000001 ;  not using JPL DE

@@ -1,4 +1,5 @@
 import openpyxl
+import re
 from openpyxl.cell import get_column_letter
 wb = openpyxl.load_workbook('Possibles 3.xlsx', data_only=True)
 sheet = wb.get_sheet_by_name('Sheet1')
@@ -24,9 +25,17 @@ for j in range(9):
         i=i+1
     i=i+1
 r.close()
-
 f= open("mpc.txt", "w")
-for k in range(len(mpcArray)):
-    f.write("     "+mpcArray[k]+'\n')
+for j in range(int(y)):
+    for i in range(len(mpcArray)):
+        name= sheet['A'+str(j+1)].value
+        #print(re.search(name, mpcArray[i], flags=0))
+        regex= re.search(name, mpcArray[i], flags=0)
+        if regex:
+            f.write("     "+mpcArray[i]+'\n')
+            print(regex)
+#f= open("mpc.txt", "w")
+#for k in range(len(mpcArray)):
+#    f.write("     "+mpcArray[k]+'\n')
 
 f.close()
