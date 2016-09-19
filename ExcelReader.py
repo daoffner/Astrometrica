@@ -11,17 +11,17 @@ y=str(sheet.max_row)
 #print(y)               Prints the row size of the sheet; needed for testing
 tuple (sheet['A1' : x+y])
 
-for rowOfCellObjects in sheet['A1' : x+y]:
-    for cellObj in rowOfCellObjects:
-        print(cellObj.coordinate, cellObj.value)
-
-    print("---------- END OF ROW --------------")
+#for rowOfCellObjects in sheet['A1' : x+y]:
+#   for cellObj in rowOfCellObjects:
+#        print(cellObj.coordinate, cellObj.value)
+#
+#    print("---------- END OF ROW --------------")
 mpcArray= []
 i=0
 for j in range(9):
     r= open("MPC Report"+str(j+1)+".txt", "r")
     for line in r.readlines():
-        mpcArray.append(line.strip())
+        mpcArray.append(line.strip())       #Combines all the MPC reports into one list
         i=i+1
     i=i+1
 r.close()
@@ -30,9 +30,10 @@ for j in range(int(y)):
     for i in range(len(mpcArray)):
         name= sheet['A'+str(j+1)].value
         #print(re.search(name, mpcArray[i], flags=0))
-        regex= re.search(name, mpcArray[i], flags=0)
+        regex= re.search(name, mpcArray[i], flags=0)        #Searches for Objects that are in both files
         if regex:
-            f.write("     "+mpcArray[i]+'\n')
+            f.write("     "+mpcArray[i]+'\n')               #Writes a new MPC Report need to create an orbit
+            mpcArray[i]= "0"
             print(regex)
 #f= open("mpc.txt", "w")
 #for k in range(len(mpcArray)):
