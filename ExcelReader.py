@@ -18,7 +18,7 @@ tuple (sheet['A1' : x+y])
 #    print("---------- END OF ROW --------------")
 mpcArray= []
 i=0
-for j in range(9):
+for j in range(10):
     r= open("MPC Report"+str(j+1)+".txt", "r")
     for line in r.readlines():
         mpcArray.append(line.strip())       #Combines all the MPC reports into one list
@@ -33,6 +33,7 @@ for j in range(int(y)):
         regex= re.search(name, mpcArray[i], flags=0)        #Searches for Objects that are in both files
         if regex:
             f.write("     "+mpcArray[i]+'\n')               #Writes a new MPC Report need to create an orbit
+            print(type(mpcArray[i]))
             mpcArray[i]= "0"
             print(regex)
 #f= open("mpc.txt", "w")
