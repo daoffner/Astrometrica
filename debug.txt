@@ -1,0 +1,18 @@
+03:42:16 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+03:42:16 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+03:42:16 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+03:42:16 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+03:42:16  4 observations loaded
+03:42:16 2016 Mar. 31 (54.6 min)
+20:40:37 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+20:40:37 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+20:40:37 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+20:40:37 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+20:40:37  4 observations loaded
+20:40:37 2016 Mar. 31 (54.6 min)
+23:03:26 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+23:03:26 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+23:03:26 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+23:03:26 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+23:03:26  4 observations loaded
+23:03:26 2016 Mar. 31 (54.6 min)

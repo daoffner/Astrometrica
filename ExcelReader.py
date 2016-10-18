@@ -1,5 +1,6 @@
 import openpyxl
 import re
+import os
 from openpyxl.cell import get_column_letter
 wb = openpyxl.load_workbook('Possibles 3.xlsx', data_only=True)
 sheet = wb.get_sheet_by_name('Sheet1')
@@ -41,3 +42,7 @@ for j in range(int(y)):
 #    f.write("     "+mpcArray[k]+'\n')
 
 f.close()
+
+os.system('./fo.out mpc.txt')
+os.remove('MPCORB.DAT')
+os.rename('mpc_fmt.txt','MPCORB.DAT')

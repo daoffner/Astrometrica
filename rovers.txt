@@ -1,0 +1,89 @@
+     Roving observer file.  This contains "MPC codes" for observers who
+  don't really have MPC codes,  mostly satellite observers.  They could
+  be handled using code 247 (Roving Observer),  but it's more convenient
+  if they have their own codes.
+
+     Locations can be in the MPC standard longitude/rho_cos_phi/rho_sin_phi
+  triplet format,  or as lon/lat/altitude.
+
+     Longitudes and latitudes are assumed to be in decimal degrees.  If
+  you have thirty fingers on each hand,  and therefore prefer deg/min/sec
+  input,  let me know,  and I'll consider that request.
+
+     Any line starting with a space is assumed to be a comment.  Negative
+  longitudes (and those between 180 and 360) are in the Western Hemisphere.
+
+MMc 262.1339 0.86573 +0.49912 Mike McCants
+Ber 138.6333 0.82043 -0.56986 Anthony Beresford, Adelaide, South Australia
+GRR  18.5129 -33.94058 10     Greg Roberts, South Africa
+Fet -75.6910 44.6062  100     Kevin Fetter, Brockville, Ontario, Canada
+PGa -98.2161 26.24316  36     Paul Gabriel, McAllen, Texas USA 78504-2940
+GeS -70.73669 -30.24075 2722  Gemini South
+IHN -81.081444 41.547806 300  Indian Hill North
+ITE   8.87444 46.178771 210   Marco Iten Gaggiole
+Hol   8.6558 49.8822 135      Gerhard Holtkamp, Germany
+Ran  12.4545 41.9683 80       Alberto Rango, Italy
+Bag -118.5 34 0               S Hutcheon obs
+Tim 20.01361 47.18278 10      Andras Timar, Hungary
+PWa  -1.1188 51.0945 120      Peter Wakelin
+RPa -71.0000 43.6666 200      Ralph Pass
+
+   When 2008 TC3 impacted the earth on 7 Oct 2008,  I added the impact point
+   as an "observatory" so I could get impact-centered ephemerides easily:
+
+Sud  33.13003  20.59026 10    Sudan impact site
+
+    The centers of the Sun,  moon,  and planets are treated as 'rovers'.
+    (I don't think that Find_Orb supports observers on the surfaces
+    of other planets.  It might,  but I've not had data with which to test
+    it out.  But below,  you'll see that a 'roving station' has been set up
+    for the LCROSS impact.  Ephemerides computed from that viewpoint are
+    correct... except for the alt/az;  this is a known bug.)
+
+Sun   0.0000 0.00000  0.00000 @00Sun
+Mer   0.0000 0.00000  0.00000 @01Mercury
+Ven   0.0000 0.00000  0.00000 @02Venus
+Mar   0.0000 0.00000  0.00000 @04Mars
+Jup   0.0000 0.00000  0.00000 @05Jupiter
+Sat   0.0000 0.00000  0.00000 @06Saturn
+Ura   0.0000 0.00000  0.00000 @07Uranus
+Nep   0.0000 0.00000  0.00000 @08Neptune
+Plu   0.0000 0.00000  0.00000 @09Pluto
+Lun   0.0000 0.00000  0.00000 @10Luna
+
+LCO 311.75834 -84.56139 10    @10LCROSS impact site
+
+Met   7.212778 51.520802 54   Bernd Brinkmann meteor site
+JSt   8.32     52.02   300    Joerg Strunk meteor site
+   JSt   8.701796 52.123622 147  Joerg Strunk meteor site
+
+SBo 8.327722 47.525778 450    Sandro Boschetti
+
+   TAROT positions from http://tarot.obs-hp.fr/tarot/infos/ :
+
+Tar 6.92389  43.75222 1270    TAROT Calern Observatory
+Ta2 -70.7322 -29.2608 2347    TAROT La Silla ESO
+
+   There are at least eleven telescopes on Mauna Kea,  all currently lumped
+   as (568).  Some are not very close to the position specified for (568)
+   (see http://arxiv.org/pdf/1106.5835 for an example,  admittedly unusual)
+   and in any case,  it's sometimes convenient for an observatory code to
+   tell you exactly which scope was used.  The following list is from:
+   http://irtfweb.ifa.hawaii.edu/IRrefdata/telescope_ref_data.php
+      I had doubts about these lat/lon/alts,  derived from an aerial survey
+   and in NAD83 datum,  with altitudes in feet (data given in non-metric
+   units always makes me worry),  but checks with people who have actually
+   been on Mauna Kea with GPS units have assuaged those worries.
+
+0.6 -155.47096 19.82161 4186.3Univ of Hawaii 0.6-m, Mauna Kea
+2.2 -155.46943 19.82299 4213.6Univ of Hawaii 2.2-m, Mauna Kea
+CFH -155.46887 19.82525 4204.1Canada-France-Hawaii Telescope, Mauna Kea (CFHT)
+IRT -155.47199 19.82621 4168.1Infrared Telescope Facility (IRTF)
+UKI -155.47032 19.82243 4198.5UK Infrared Telescope (UKIRT)
+JCM -155.47700 19.82280       James Clerke Maxwell Telescope (JCMT)
+CSO -155.47549 19.82243       Caltech Submillimeter Observatory (CSO)
+Ke1 -155.47471 19.82594 4159.6Keck 1, Mauna Kea
+Ke2 -155.47423 19.82656 4159.6Keck 2, Mauna Kea
+Sub -155.47601 19.82550 4163.0Subaru, Mauna Kea
+Gem -155.46904 19.82380 4213.4Gemini North, Mauna Kea
+

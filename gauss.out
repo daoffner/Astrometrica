@@ -1,0 +1,30 @@
+jds: 2457428.075280 2457428.075280 2457428.088829
+poly: x^8 + -0.973433 x^6 + -0.000000 x^3 + -0.000000
+
+8 roots found:
+Root 0: -0.986627
+Root 1: 0.000000
+Root 2: 0.000000
+Root 3: 0.000000
+Root 4: 0.000000
+Root 5: 0.000000
+Root 6: 0.000000
+Root 7: 0.986627
+7 roots survive
+'surviving' root 0: 0.986627
+'surviving' root 1: 0.000000
+'surviving' root 2: 0.000000
+'surviving' root 3: 0.000000
+'surviving' root 4: 0.000000
+'surviving' root 5: 0.000000
+'surviving' root 6: 0.000000
+r2 = 0.986627
+p1 = -0.000000   p2 = 0.000000    p3 = -nan
+state vect: -0.756033 0.633913 -0.000004 -nan -nan -nan
+r2 = 0.986627
+p1 = -nan   p2 = -nan    p3 = -nan
+state vect: -nan -nan -nan -nan -nan -nan
+r2 = -nan
+p1 = -nan   p2 = -nan    p3 = -nan
+state vect: -nan -nan -nan -nan -nan -nan
+rval = -nan

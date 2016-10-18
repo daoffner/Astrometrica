@@ -1,0 +1,21 @@
+# Make file for console Find_Orb,  using PDCurses
+# Note that this is very similar to 'linmake',  the make file for Linux,
+# except that LINUX isn't defined and 'pdcurses.a' is linked to instead
+# of the plain old 'curses' library.
+
+CC=g++
+
+CFLAGS=-c -O3 -Wall
+
+OBJS=findorb.o collide.o conv_ele.o eigen.o elem2tle.o  \
+	elem_out.o ephem0.o gauss.o get_pert.o \
+	jpleph.o lsquare.o moid4.o monte0.o mpc_obs.o mt64.o \
+	orb_func.o orb_fun2.o pl_cache.o roots.o runge.o \
+	sm_vsop.o sr.o tle_out.o weight.o b32_eph.o
+
+
+find_orb: $(OBJS)
+	$(CC) -o find_orb $(OBJS) lunar.a pdcurses.a
+
+.cpp.o:
+	$(CC) $(CFLAGS) $<
