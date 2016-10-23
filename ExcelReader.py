@@ -1,10 +1,23 @@
 import openpyxl
 import re
 import os
-from openpyxl.cell import get_column_letter
+import thread
+import time
+import signal
+#from openpyxl.cell import get_column_letter
+def find_orb(threadName):
+    print(threadName)
+    os.system('./fo mpc.txt')
+def delay(threadName, wait):
+    print(threadName)
+    time.sleep(wait)
+    os.system('\x03')
+    os.remove('MPCORB.DAT')
+    os.rename('mpc_fmt.txt','MPCORB.DAT')
+
 wb = openpyxl.load_workbook('Possibles 3.xlsx', data_only=True)
 sheet = wb.get_sheet_by_name('Sheet1')
-x= get_column_letter(sheet.max_column)
+x= openpyxl.utils.get_column_letter(sheet.max_column)
 
 #print (ord(x))       Prints the ascii value of the max column; needed for testing
 x=str(chr(ord(x)))
@@ -16,7 +29,8 @@ tuple (sheet['A1' : x+y])
 #   for cellObj in rowOfCellObjects:
 #        print(cellObj.coordinate, cellObj.value)
 #
-#    print("---------- END OF ROW --------------")
+#    print("-
+# --------- END OF ROW --------------")
 mpcArray= []
 i=0
 for j in range(10):
@@ -34,15 +48,20 @@ for j in range(int(y)):
         regex= re.search(name, mpcArray[i], flags=0)        #Searches for Objects that are in both files
         if regex:
             f.write("     "+mpcArray[i]+'\n')               #Writes a new MPC Report need to create an orbit
-            print(type(mpcArray[i]))
+            #print(type(mpcArray[i]))
             mpcArray[i]= "0"
-            print(regex)
+            #print(regex)
 #f= open("mpc.txt", "w")
 #for k in range(len(mpcArray)):
 #    f.write("     "+mpcArray[k]+'\n')
 
 f.close()
-
-os.system('./fo.out mpc.txt')
+thread.start_new_thread(find_orb, ("Thread-1", ))
+#thread.start_new_thread(delay, ("Thread-2" , 20, ))
+#os.system('./fo mpc.txt')
+#os.remove('MPCORB.DAT')
+#os.rename('mpc_fmt.txt','MPCORB.DAT')
+time.sleep(120)
 os.remove('MPCORB.DAT')
 os.rename('mpc_fmt.txt','MPCORB.DAT')
+os.system('cp -u MPCORB.DAT Astrometrica/Catalogs')
