@@ -3,6 +3,7 @@ import re
 import os
 import thread
 import time
+import glob
 import signal
 #from openpyxl.cell import get_column_letter
 def find_orb(threadName):
@@ -31,15 +32,33 @@ tuple (sheet['A1' : x+y])
 #
 #    print("-
 # --------- END OF ROW --------------")
+path= 'MPC'
+dirs = os.listdir("MPC")
+#dirs = os.listdir(os.path.dirname(path))
+for file in dirs:
+   print (file)
 mpcArray= []
 i=0
-for j in range(10):
-    r= open("MPC Report"+str(j+1)+".txt", "r")
+#New code to test
+for filename in glob.glob(os.path.join(path, '*.txt')):
+    print(filename)
+    r= open(filename, "r")
     for line in r.readlines():
-        mpcArray.append(line.strip())       #Combines all the MPC reports into one list
+        mpcArray.append(line.strip())
+        print(mpcArray[i])
         i=i+1
-    i=i+1
-r.close()
+#    i=i+1
+    r.close()
+#end of new code
+
+#old code
+#for j in range(10):
+#    r= open("MPC Report"+str(j+1)+".txt", "r")
+#    for line in r.readlines():
+#        mpcArray.append(line.strip())       #Combines all the MPC reports into one list
+#        i=i+1
+#    i=i+1
+#r.close()
 f= open("mpc.txt", "w")
 for j in range(int(y)):
     for i in range(len(mpcArray)):

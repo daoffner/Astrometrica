@@ -13,7 +13,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".201.
 #   -5.057270425396  -8.986334725611   0.414221907715 mAU/day
 # MOIDs: Me  2.4537 Ve  2.1304 Ea  1.8604 Ma  1.1832
 # MOIDs: Ju  1.9750 Sa  6.1349 Ur 15.4344 Ne 26.8618
-# Elements written: 23 Oct 2016 18:24:14 (JD 2457685.266829)
+# Elements written: 25 Oct 2016 16:32:25 (JD 2457687.189178)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -39,7 +39,7 @@ From 3 observations 2016 Feb. 9 (38.8 min); mean residual 0".064.
 #   -5.935624583181  -9.925950477578  -0.943307561847 mAU/day
 # MOIDs: Me  1.9008 Ve  1.5657 Ea  1.2949 Ma  0.6186
 # MOIDs: Ju  2.5068 Sa  6.7088 Ur 15.9966 Ne 27.4070
-# Elements written: 23 Oct 2016 18:24:18 (JD 2457685.266875)
+# Elements written: 25 Oct 2016 16:32:26 (JD 2457687.189190)
 # Full range of obs: 2016 Feb. 9 (38.8 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -65,7 +65,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".203.
 #   -5.835426620719  -9.988110537287   1.100022185902 mAU/day
 # MOIDs: Me  1.9019 Ve  1.5652 Ea  1.2985 Ma  0.6212
 # MOIDs: Ju  2.5032 Sa  6.6887 Ur 16.0039 Ne 27.3960
-# Elements written: 23 Oct 2016 18:24:23 (JD 2457685.266933)
+# Elements written: 25 Oct 2016 16:32:27 (JD 2457687.189201)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -91,7 +91,7 @@ From 8 observations 2016 Mar. 31 (54.6 min); mean residual 325379".143.
 #    1.474039968099 -10.325694192749  -0.744615567101 mAU/day
 # MOIDs: Me  2.4362 Ve  2.1470 Ea  1.8663 Ma  1.2304
 # MOIDs: Ju  1.8935 Sa  6.0250 Ur 15.4540 Ne 26.7290
-# Elements written: 23 Oct 2016 18:24:28 (JD 2457685.266991)
+# Elements written: 25 Oct 2016 16:32:28 (JD 2457687.189213)
 # Full range of obs: 2016 Mar. 31 (54.6 min) (8 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -117,7 +117,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".405.
 #   -5.422075825195  -8.983592447926  -0.283102265797 mAU/day
 # MOIDs: Me  1.8587 Ve  1.5530 Ea  1.2691 Ma  0.8681
 # MOIDs: Ju  2.6124 Sa  6.5336 Ur 15.7557 Ne 27.4080
-# Elements written: 23 Oct 2016 18:24:29 (JD 2457685.267002)
+# Elements written: 25 Oct 2016 16:32:28 (JD 2457687.189213)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -143,7 +143,7 @@ From 3 observations 2016 Feb. 9 (58.1 min); mean residual 0".135.
 #   -6.004343856647  -9.972533224539   0.591612712808 mAU/day
 # MOIDs: Me  2.1883 Ve  1.8225 Ea  1.5529 Ma  0.8757
 # MOIDs: Ju  1.4523 Sa  6.0466 Ur 15.7004 Ne 26.4106
-# Elements written: 23 Oct 2016 18:24:29 (JD 2457685.267002)
+# Elements written: 25 Oct 2016 16:32:28 (JD 2457687.189213)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -169,7 +169,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".088.
 #  -17.363413308929 -10.118205907030   0.376025211344 mAU/day
 # MOIDs: Me  0.5985 Ve  0.1851 Ea  0.0009 Ma  0.0114
 # MOIDs: Ju  1.5777 Sa  6.3378 Ur 15.3960 Ne 26.5649
-# Elements written: 23 Oct 2016 18:24:29 (JD 2457685.267002)
+# Elements written: 25 Oct 2016 16:32:28 (JD 2457687.189213)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -195,7 +195,7 @@ From 3 observations 2016 Feb. 9 (38.6 min); mean residual 0".147.
 #   -7.121339200325 -11.726166976141  -1.086219521002 mAU/day
 # MOIDs: Me  1.5382 Ve  1.1731 Ea  0.9047 Ma  0.2268
 # MOIDs: Ju  2.1063 Sa  6.7241 Ur 16.3545 Ne 27.0668
-# Elements written: 23 Oct 2016 18:24:34 (JD 2457685.267060)
+# Elements written: 25 Oct 2016 16:32:29 (JD 2457687.189225)
 # Full range of obs: 2016 Feb. 9 (38.6 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -221,7 +221,7 @@ From 4 observations 2016 Feb. 1 (49.5 min); mean residual 0".340.
 #   -9.652860283713 -10.862051575277   0.796872360709 mAU/day
 # MOIDs: Me  1.4028 Ve  1.0251 Ea  0.7572 Ma  0.0826
 # MOIDs: Ju  2.1485 Sa  6.8596 Ur 16.4478 Ne 27.1273
-# Elements written: 23 Oct 2016 18:24:39 (JD 2457685.267118)
+# Elements written: 25 Oct 2016 16:32:30 (JD 2457687.189236)
 # Full range of obs: 2016 Feb. 1 (49.5 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -247,7 +247,7 @@ From 3 observations 2016 Feb. 1 (33.0 min); mean residual 0".161.
 #   -5.758699115197  -7.282470980047  -0.204406324159 mAU/day
 # MOIDs: Me  1.6060 Ve  1.2941 Ea  1.0100 Ma  0.6346
 # MOIDs: Ju  2.4516 Sa  6.2683 Ur 15.4822 Ne 27.1942
-# Elements written: 23 Oct 2016 18:24:44 (JD 2457685.267176)
+# Elements written: 25 Oct 2016 16:32:31 (JD 2457687.189248)
 # Full range of obs: 2016 Feb. 1 (33.0 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -273,7 +273,7 @@ From 3 observations 2016 Feb. 2 (50.1 min); mean residual 0".104.
 #  -13.185497924605 -11.701863593014   0.047609428519 mAU/day
 # MOIDs: Me  0.6191 Ve  0.2783 Ea  0.0121 Ma  0.2910
 # MOIDs: Ju  3.8912 Sa  8.0218 Ur 17.2662 Ne 28.7789
-# Elements written: 23 Oct 2016 18:24:49 (JD 2457685.267234)
+# Elements written: 25 Oct 2016 16:32:32 (JD 2457687.189259)
 # Full range of obs: 2016 Feb. 2 (50.1 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000408 
@@ -299,7 +299,7 @@ From 3 observations 2016 Feb. 9 (38.8 min); mean residual 0".070.
 #   -6.002029174186  -9.765298658873  -0.816081216320 mAU/day
 # MOIDs: Me  1.8683 Ve  1.5662 Ea  1.2938 Ma  0.6202
 # MOIDs: Ju  2.5977 Sa  6.7276 Ur 16.0007 Ne 27.4790
-# Elements written: 23 Oct 2016 18:24:49 (JD 2457685.267234)
+# Elements written: 25 Oct 2016 16:32:32 (JD 2457687.189259)
 # Full range of obs: 2016 Feb. 9 (38.8 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -325,7 +325,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".024.
 #   -6.753729054812 -10.786380677465   0.649832372015 mAU/day
 # MOIDs: Me  1.7155 Ve  1.3522 Ea  1.0819 Ma  0.4057
 # MOIDs: Ju  2.2805 Sa  6.7481 Ur 16.1892 Ne 27.2272
-# Elements written: 23 Oct 2016 18:24:50 (JD 2457685.267245)
+# Elements written: 25 Oct 2016 16:32:32 (JD 2457687.189259)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -351,7 +351,7 @@ From 3 observations 2016 Feb. 9 (58.1 min); mean residual 0".106.
 #   -5.768977711362  -9.983141618236   0.514467773647 mAU/day
 # MOIDs: Me  1.8837 Ve  1.5653 Ea  1.2962 Ma  0.6187
 # MOIDs: Ju  2.5549 Sa  6.7044 Ur 16.0006 Ne 27.4388
-# Elements written: 23 Oct 2016 18:24:50 (JD 2457685.267245)
+# Elements written: 25 Oct 2016 16:32:32 (JD 2457687.189259)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -377,7 +377,7 @@ From 3 observations 2016 Feb. 9 (38.8 min); mean residual 0".126.
 #   -6.444419150207 -10.722175460104  -1.136047318341 mAU/day
 # MOIDs: Me  1.7106 Ve  1.3515 Ea  1.0822 Ma  0.4046
 # MOIDs: Ju  2.4438 Sa  6.8361 Ur 16.1991 Ne 27.3782
-# Elements written: 23 Oct 2016 18:24:55 (JD 2457685.267303)
+# Elements written: 25 Oct 2016 16:32:33 (JD 2457687.189271)
 # Full range of obs: 2016 Feb. 9 (38.8 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -403,7 +403,7 @@ From 3 observations 2016 Feb. 9 (38.6 min); mean residual 0".515.
 #   -7.730541902616 -12.242723612764   0.711582217205 mAU/day
 # MOIDs: Me  1.3915 Ve  1.0247 Ea  0.7561 Ma  0.0784
 # MOIDs: Ju  2.1825 Sa  6.8244 Ur 16.4978 Ne 27.1473
-# Elements written: 23 Oct 2016 18:24:55 (JD 2457685.267303)
+# Elements written: 25 Oct 2016 16:32:33 (JD 2457687.189271)
 # Full range of obs: 2016 Feb. 9 (38.6 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -429,7 +429,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".079.
 #   -7.637845518657 -12.086511136565   0.881434328883 mAU/day
 # MOIDs: Me  1.3905 Ve  1.0247 Ea  0.7563 Ma  0.0787
 # MOIDs: Ju  2.3489 Sa  6.9428 Ur 16.5065 Ne 27.3090
-# Elements written: 23 Oct 2016 18:24:55 (JD 2457685.267303)
+# Elements written: 25 Oct 2016 16:32:33 (JD 2457687.189271)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -455,7 +455,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".062.
 #   -5.842471639791  -9.938012359766  -1.217259094747 mAU/day
 # MOIDs: Me  1.8983 Ve  1.5653 Ea  1.2951 Ma  0.6183
 # MOIDs: Ju  2.5151 Sa  6.7215 Ur 15.9970 Ne 27.4159
-# Elements written: 23 Oct 2016 18:24:56 (JD 2457685.267315)
+# Elements written: 25 Oct 2016 16:32:33 (JD 2457687.189271)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -481,7 +481,7 @@ From 3 observations 2016 Feb. 9 (38.6 min); mean residual 0".073.
 #   -7.196515761336 -11.694199894960   0.375033047988 mAU/day
 # MOIDs: Me  1.5388 Ve  1.1732 Ea  0.9048 Ma  0.2270
 # MOIDs: Ju  2.1360 Sa  6.7398 Ur 16.3542 Ne 27.0960
-# Elements written: 23 Oct 2016 18:24:56 (JD 2457685.267315)
+# Elements written: 25 Oct 2016 16:32:33 (JD 2457687.189271)
 # Full range of obs: 2016 Feb. 9 (38.6 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -507,7 +507,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".273.
 #   -5.082943631985  -8.971636106763  -0.210385175171 mAU/day
 # MOIDs: Me  1.7229 Ve  1.4074 Ea  1.1261 Ma  0.7530
 # MOIDs: Ju  2.7017 Sa  6.5634 Ur 15.7591 Ne 27.4668
-# Elements written: 23 Oct 2016 18:24:56 (JD 2457685.267315)
+# Elements written: 25 Oct 2016 16:32:33 (JD 2457687.189271)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -533,7 +533,7 @@ From 3 observations 2016 Feb. 1 (32.9 min); mean residual 0".140.
 #   -7.034087364498  -8.965100321846  -0.611702485738 mAU/day
 # MOIDs: Me  2.1948 Ve  1.8228 Ea  1.5538 Ma  0.8786
 # MOIDs: Ju  1.7939 Sa  6.3071 Ur 15.6984 Ne 26.7483
-# Elements written: 23 Oct 2016 18:25:01 (JD 2457685.267373)
+# Elements written: 25 Oct 2016 16:32:34 (JD 2457687.189282)
 # Full range of obs: 2016 Feb. 1 (32.9 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -559,7 +559,7 @@ From 3 observations 2016 Feb. 9 (58.1 min); mean residual 0".078.
 #   -7.377976858485 -11.791652737374  -0.061262221916 mAU/day
 # MOIDs: Me  1.5400 Ve  1.1731 Ea  0.9052 Ma  0.2275
 # MOIDs: Ju  1.9485 Sa  6.6010 Ur 16.3417 Ne 26.9135
-# Elements written: 23 Oct 2016 18:25:01 (JD 2457685.267373)
+# Elements written: 25 Oct 2016 16:32:35 (JD 2457687.189294)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -585,7 +585,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".167.
 #   -5.852728031865  -9.801053858163  -0.935898781069 mAU/day
 # MOIDs: Me  1.8527 Ve  1.5653 Ea  1.2921 Ma  0.6182
 # MOIDs: Ju  2.6211 Sa  6.7425 Ur 16.0008 Ne 27.4993
-# Elements written: 23 Oct 2016 18:25:02 (JD 2457685.267384)
+# Elements written: 25 Oct 2016 16:32:35 (JD 2457687.189294)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -611,7 +611,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".118.
 #   -7.318466413802 -11.621209321303  -0.956248811117 mAU/day
 # MOIDs: Me  1.5395 Ve  1.1731 Ea  0.9048 Ma  0.2269
 # MOIDs: Ju  2.1035 Sa  6.7273 Ur 16.3507 Ne 27.0654
-# Elements written: 23 Oct 2016 18:25:02 (JD 2457685.267384)
+# Elements written: 25 Oct 2016 16:32:35 (JD 2457687.189294)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -637,7 +637,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".083.
 #   -5.380842208520  -9.150714721771   0.643271976742 mAU/day
 # MOIDs: Me  1.9677 Ve  1.6702 Ea  1.3862 Ma  0.8743
 # MOIDs: Ju  2.5326 Sa  6.5106 Ur 15.7533 Ne 27.3524
-# Elements written: 23 Oct 2016 18:25:02 (JD 2457685.267384)
+# Elements written: 25 Oct 2016 16:32:35 (JD 2457687.189294)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -663,7 +663,7 @@ From 4 observations 2016 Feb. 1 (49.5 min); mean residual 0".164.
 #   -6.240577530487  -7.958182283806   2.059238077005 mAU/day
 # MOIDs: Me  2.4695 Ve  2.1308 Ea  1.8620 Ma  1.1849
 # MOIDs: Ju  2.0098 Sa  6.1816 Ur 15.4447 Ne 26.9096
-# Elements written: 23 Oct 2016 18:25:03 (JD 2457685.267396)
+# Elements written: 25 Oct 2016 16:32:35 (JD 2457687.189294)
 # Full range of obs: 2016 Feb. 1 (49.5 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -689,7 +689,7 @@ From 4 observations 2016 Feb. 3 (51.4 min); mean residual 0".116.
 #  -13.889129490705 -11.443127324082   0.366073990190 mAU/day
 # MOIDs: Me  0.6772 Ve  0.2675 Ea  0.0060 Ma  0.1380
 # MOIDs: Ju  3.8086 Sa  8.0345 Ur 17.1898 Ne 28.7527
-# Elements written: 23 Oct 2016 18:25:03 (JD 2457685.267396)
+# Elements written: 25 Oct 2016 16:32:35 (JD 2457687.189294)
 # Full range of obs: 2016 Feb. 3 (51.4 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -715,7 +715,7 @@ From 4 observations 2016 Feb. 3 (51.4 min); mean residual 0".239.
 #   -8.910217293517 -11.376746071251   0.332131488580 mAU/day
 # MOIDs: Me  1.3966 Ve  1.0261 Ea  0.7686 Ma  0.1489
 # MOIDs: Ju  2.2625 Sa  6.9077 Ur 16.4785 Ne 27.2227
-# Elements written: 23 Oct 2016 18:25:07 (JD 2457685.267442)
+# Elements written: 25 Oct 2016 16:32:36 (JD 2457687.189306)
 # Full range of obs: 2016 Feb. 3 (51.4 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -741,7 +741,7 @@ From 4 observations 2016 Feb. 3 (51.4 min); mean residual 0".425.
 #   -8.852785496521 -11.266103739216   0.024802787496 mAU/day
 # MOIDs: Me  1.3959 Ve  1.0261 Ea  0.7685 Ma  0.1482
 # MOIDs: Ju  2.3777 Sa  6.9843 Ur 16.4859 Ne 27.3362
-# Elements written: 23 Oct 2016 18:25:08 (JD 2457685.267454)
+# Elements written: 25 Oct 2016 16:32:36 (JD 2457687.189306)
 # Full range of obs: 2016 Feb. 3 (51.4 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -767,7 +767,7 @@ From 4 observations 2016 Feb. 3 (51.5 min); mean residual 0".832.
 #   -7.778258746095 -11.208425783896   1.258988846575 mAU/day
 # MOIDs: Me  1.5411 Ve  1.1739 Ea  0.9132 Ma  0.2521
 # MOIDs: Ju  2.2037 Sa  6.8012 Ur 16.3598 Ne 27.1565
-# Elements written: 23 Oct 2016 18:25:12 (JD 2457685.267500)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 3 (51.5 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -793,7 +793,7 @@ From 4 observations 2016 Feb. 3 (51.5 min); mean residual 1".631.
 #   -6.510717239397  -9.938241735480   4.529297187674 mAU/day
 # MOIDs: Me  1.5198 Ve  1.1736 Ea  0.9081 Ma  0.2364
 # MOIDs: Ju  3.0125 Sa  7.1539 Ur 16.4371 Ne 27.9425
-# Elements written: 23 Oct 2016 18:25:12 (JD 2457685.267500)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 3 (51.5 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -819,7 +819,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".755.
 #   -6.521976536129 -10.769961096846   1.104518501209 mAU/day
 # MOIDs: Me  1.7123 Ve  1.3520 Ea  1.0819 Ma  0.4050
 # MOIDs: Ju  2.3766 Sa  6.7903 Ur 16.1974 Ne 27.3159
-# Elements written: 23 Oct 2016 18:25:12 (JD 2457685.267500)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -845,7 +845,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".044.
 #   -5.705371120282 -10.140058891836   1.657606424047 mAU/day
 # MOIDs: Me  2.1865 Ve  1.8220 Ea  1.5546 Ma  0.8769
 # MOIDs: Ju  1.3228 Sa  5.9466 Ur 15.7180 Ne 26.2741
-# Elements written: 23 Oct 2016 18:25:12 (JD 2457685.267500)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -871,7 +871,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".214.
 #   -7.288770422791 -11.615201325036  -0.241518827172 mAU/day
 # MOIDs: Me  1.5391 Ve  1.1731 Ea  0.9054 Ma  0.2278
 # MOIDs: Ju  2.1589 Sa  6.7599 Ur 16.3524 Ne 27.1187
-# Elements written: 23 Oct 2016 18:25:13 (JD 2457685.267512)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -897,7 +897,7 @@ From 3 observations 2016 Feb. 9 (38.8 min); mean residual 0".301.
 #   -9.975571412358 -10.857193011906   1.258511202390 mAU/day
 # MOIDs: Me  1.2550 Ve  0.8478 Ea  0.5826 Ma  0.0023
 # MOIDs: Ju  2.3356 Sa  7.1950 Ur 16.2436 Ne 27.3422
-# Elements written: 23 Oct 2016 18:25:13 (JD 2457685.267512)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (38.8 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -923,7 +923,7 @@ From 3 observations 2016 Feb. 9 (58.1 min); mean residual 0".160.
 #   -6.645502798533 -10.918374623572   0.128025822685 mAU/day
 # MOIDs: Me  1.7142 Ve  1.3513 Ea  1.0835 Ma  0.4057
 # MOIDs: Ju  2.2425 Sa  6.7251 Ur 16.1893 Ne 27.1891
-# Elements written: 23 Oct 2016 18:25:13 (JD 2457685.267512)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -949,7 +949,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".674.
 #   -5.846846162084 -10.001841474572   1.186546050531 mAU/day
 # MOIDs: Me  1.9042 Ve  1.5652 Ea  1.2977 Ma  0.6201
 # MOIDs: Ju  2.4795 Sa  6.6817 Ur 16.0032 Ne 27.3768
-# Elements written: 23 Oct 2016 18:25:13 (JD 2457685.267512)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -975,7 +975,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".089.
 #   -6.706373144093 -10.925873908507   0.039542877570 mAU/day
 # MOIDs: Me  1.7160 Ve  1.3522 Ea  1.0818 Ma  0.4059
 # MOIDs: Ju  2.2037 Sa  6.7088 Ur 16.1859 Ne 27.1538
-# Elements written: 23 Oct 2016 18:25:14 (JD 2457685.267523)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1001,7 +1001,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".214.
 #   -3.782713393053  -6.992394451821  -0.262477115138 mAU/day
 # MOIDs: Me  1.9579 Ve  1.6293 Ea  1.3461 Ma  0.9749
 # MOIDs: Ju  1.6996 Sa  5.5244 Ur 14.6508 Ne 26.4472
-# Elements written: 23 Oct 2016 18:25:14 (JD 2457685.267523)
+# Elements written: 25 Oct 2016 16:32:37 (JD 2457687.189317)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1027,7 +1027,7 @@ From 3 observations 2016 Feb. 9 (38.6 min); mean residual 0".100.
 #   -4.458333340409  -8.106271692555   0.338258546569 mAU/day
 # MOIDs: Me  2.4006 Ve  2.0825 Ea  1.7986 Ma  1.4275
 # MOIDs: Ju  2.0209 Sa  5.8807 Ur 15.0798 Ne 26.7830
-# Elements written: 23 Oct 2016 18:25:18 (JD 2457685.267569)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (38.6 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1053,7 +1053,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".089.
 #   -5.098898132954  -9.002869861725   0.066186832282 mAU/day
 # MOIDs: Me  2.4609 Ve  2.1302 Ea  1.8610 Ma  1.1836
 # MOIDs: Ju  1.9443 Sa  6.1273 Ur 15.4338 Ne 26.8363
-# Elements written: 23 Oct 2016 18:25:18 (JD 2457685.267569)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1079,7 +1079,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".175.
 #   -5.330516969863  -9.190736498124   0.334432609040 mAU/day
 # MOIDs: Me  1.9622 Ve  1.6656 Ea  1.3825 Ma  0.8745
 # MOIDs: Ju  2.5319 Sa  6.5113 Ur 15.7535 Ne 27.3531
-# Elements written: 23 Oct 2016 18:25:18 (JD 2457685.267569)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1105,7 +1105,7 @@ From 3 observations 2016 Feb. 9 (38.6 min); mean residual 0".124.
 #   -5.951083681798  -9.969100333747  -0.045217992302 mAU/day
 # MOIDs: Me  1.9001 Ve  1.5654 Ea  1.2960 Ma  0.6185
 # MOIDs: Ju  2.4979 Sa  6.6916 Ur 15.9963 Ne 27.3945
-# Elements written: 23 Oct 2016 18:25:19 (JD 2457685.267581)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (38.6 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1131,7 +1131,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".103.
 #   -6.709373907812 -10.956035106621  -0.137946172080 mAU/day
 # MOIDs: Me  1.7155 Ve  1.3515 Ea  1.0826 Ma  0.4049
 # MOIDs: Ju  2.1757 Sa  6.6937 Ur 16.1849 Ne 27.1267
-# Elements written: 23 Oct 2016 18:25:19 (JD 2457685.267581)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1157,7 +1157,7 @@ From 3 observations 2016 Feb. 9 (38.8 min); mean residual 0".078.
 #   -5.133984008070  -9.149122265769   0.392938543306 mAU/day
 # MOIDs: Me  2.4828 Ve  2.1302 Ea  1.8613 Ma  1.1836
 # MOIDs: Ju  1.7689 Sa  6.0626 Ur 15.4281 Ne 26.6848
-# Elements written: 23 Oct 2016 18:25:19 (JD 2457685.267581)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (38.8 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1183,7 +1183,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".232.
 #   -5.065798583129  -8.713012586038  -0.691444959450 mAU/day
 # MOIDs: Me  1.5715 Ve  1.2534 Ea  0.9713 Ma  0.5987
 # MOIDs: Ju  2.7630 Sa  6.5851 Ur 15.7636 Ne 27.5063
-# Elements written: 23 Oct 2016 18:25:19 (JD 2457685.267581)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1209,7 +1209,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".244.
 #   -5.140776265233  -8.834361369078  -0.764564025602 mAU/day
 # MOIDs: Me  1.6749 Ve  1.3595 Ea  1.0773 Ma  0.7045
 # MOIDs: Ju  2.7332 Sa  6.5724 Ur 15.7606 Ne 27.4844
-# Elements written: 23 Oct 2016 18:25:20 (JD 2457685.267593)
+# Elements written: 25 Oct 2016 16:32:38 (JD 2457687.189329)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1235,7 +1235,7 @@ From 3 observations 2016 Feb. 11 (32.8 min); mean residual 0".868.
 #   -1.337292967457  -9.683822762126   0.375445356222 mAU/day
 # MOIDs: Me  2.0512 Ve  1.7210 Ea  1.4679 Ma  1.0811
 # MOIDs: Ju  2.4726 Sa  6.3299 Ur 15.5147 Ne 27.2320
-# Elements written: 23 Oct 2016 18:25:24 (JD 2457685.267639)
+# Elements written: 25 Oct 2016 16:32:39 (JD 2457687.189340)
 # Full range of obs: 2016 Feb. 11 (32.8 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1261,7 +1261,7 @@ From 4 observations 2016 Feb. 3 (51.5 min); mean residual 0".094.
 #   -6.198504259061 -10.025217063902   2.255927416672 mAU/day
 # MOIDs: Me  1.9284 Ve  1.5678 Ea  1.3086 Ma  0.6413
 # MOIDs: Ju  2.2071 Sa  6.6048 Ur 16.0264 Ne 27.1317
-# Elements written: 23 Oct 2016 18:25:25 (JD 2457685.267650)
+# Elements written: 25 Oct 2016 16:32:39 (JD 2457687.189340)
 # Full range of obs: 2016 Feb. 3 (51.5 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1287,7 +1287,7 @@ From 4 observations 2016 Feb. 3 (51.5 min); mean residual 0".054.
 #  -11.783576240838  -9.945246696210   0.976374128205 mAU/day
 # MOIDs: Me  1.1337 Ve  0.7228 Ea  0.4593 Ma  0.0556
 # MOIDs: Ju  2.2016 Sa  7.0248 Ur 16.0335 Ne 27.2040
-# Elements written: 23 Oct 2016 18:25:25 (JD 2457685.267650)
+# Elements written: 25 Oct 2016 16:32:39 (JD 2457687.189340)
 # Full range of obs: 2016 Feb. 3 (51.5 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1313,7 +1313,7 @@ From 3 observations 2016 Feb. 3 (51.5 min); mean residual 0".167.
 #   -7.745380087265 -11.050844873227   0.296319136881 mAU/day
 # MOIDs: Me  1.5398 Ve  1.1746 Ea  0.9159 Ma  0.2650
 # MOIDs: Ju  2.3949 Sa  6.9023 Ur 16.3625 Ne 27.3398
-# Elements written: 23 Oct 2016 18:25:25 (JD 2457685.267650)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 3 (51.5 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1339,7 +1339,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".147.
 #   -7.527430347262 -11.440185013711  -0.426492197194 mAU/day
 # MOIDs: Me  1.5415 Ve  1.1739 Ea  0.9039 Ma  0.2290
 # MOIDs: Ju  2.1744 Sa  6.7834 Ur 16.3492 Ne 27.1362
-# Elements written: 23 Oct 2016 18:25:26 (JD 2457685.267662)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1365,7 +1365,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".087.
 #   -7.513047236043 -11.490598335594   0.710669684148 mAU/day
 # MOIDs: Me  1.5414 Ve  1.1737 Ea  0.9042 Ma  0.2275
 # MOIDs: Ju  2.1273 Sa  6.7456 Ur 16.3479 Ne 27.0906
-# Elements written: 23 Oct 2016 18:25:26 (JD 2457685.267662)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1391,7 +1391,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".271.
 #   -7.613428783791 -11.631504380644   0.491183770937 mAU/day
 # MOIDs: Me  1.5422 Ve  1.1737 Ea  0.9042 Ma  0.2277
 # MOIDs: Ju  1.9492 Sa  6.6110 Ur 16.3367 Ne 26.9169
-# Elements written: 23 Oct 2016 18:25:26 (JD 2457685.267662)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1417,7 +1417,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".059.
 #   -5.302049750648  -8.893558651536   0.626543954883 mAU/day
 # MOIDs: Me  2.4693 Ve  2.1306 Ea  1.8606 Ma  1.1833
 # MOIDs: Ju  1.9183 Sa  6.1189 Ur 15.4322 Ne 26.8161
-# Elements written: 23 Oct 2016 18:25:26 (JD 2457685.267662)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1443,7 +1443,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".216.
 #   -5.669068046348  -9.250440556622  -0.284392110677 mAU/day
 # MOIDs: Me  2.1092 Ve  1.8225 Ea  1.5491 Ma  0.8752
 # MOIDs: Ju  2.3624 Sa  6.4720 Ur 15.7438 Ne 27.2359
-# Elements written: 23 Oct 2016 18:25:27 (JD 2457685.267674)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1469,7 +1469,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".136.
 #   -9.055232751681  -8.586566059916   0.133978061957 mAU/day
 # MOIDs: Me  1.2894 Ve  0.8787 Ea  0.6123 Ma  0.0844
 # MOIDs: Ju  2.6197 Sa  7.1167 Ur 15.8333 Ne 27.5777
-# Elements written: 23 Oct 2016 18:25:27 (JD 2457685.267674)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1495,7 +1495,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".236.
 #   -5.150242012184  -8.881053731193   0.898556657381 mAU/day
 # MOIDs: Me  1.7187 Ve  1.4019 Ea  1.1177 Ma  0.7468
 # MOIDs: Ju  2.7074 Sa  6.5590 Ur 15.7607 Ne 27.4623
-# Elements written: 23 Oct 2016 18:25:27 (JD 2457685.267674)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1521,7 +1521,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".228.
 #   -5.738027125812  -9.989250816061   0.499902387708 mAU/day
 # MOIDs: Me  1.8803 Ve  1.5652 Ea  1.2972 Ma  0.6200
 # MOIDs: Ju  2.5647 Sa  6.7065 Ur 16.0023 Ne 27.4454
-# Elements written: 23 Oct 2016 18:25:27 (JD 2457685.267674)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1547,7 +1547,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".119.
 #   -5.208354542601  -8.401044590388  -1.068541321372 mAU/day
 # MOIDs: Me  1.4631 Ve  1.1452 Ea  0.8625 Ma  0.4899
 # MOIDs: Ju  2.7817 Sa  6.5950 Ur 15.7691 Ne 27.5210
-# Elements written: 23 Oct 2016 18:25:27 (JD 2457685.267674)
+# Elements written: 25 Oct 2016 16:32:40 (JD 2457687.189352)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1573,7 +1573,7 @@ From 2 observations 2016 Feb. 9 (19.5 min); mean residual 0".000.
 #   -5.432418722202  -8.872089206830  -2.529198607152 mAU/day
 # MOIDs: Me  2.0194 Ve  1.7336 Ea  1.4500 Ma  0.8765
 # MOIDs: Ju  2.5289 Sa  6.5577 Ur 15.7576 Ne 27.4086
-# Elements written: 23 Oct 2016 18:25:31 (JD 2457685.267720)
+# Elements written: 25 Oct 2016 16:32:41 (JD 2457687.189363)
 # Full range of obs: 2016 Feb. 9 (19.5 min) (2 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1599,7 +1599,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".127.
 #   -7.082778027953 -11.685844324624   0.423394745218 mAU/day
 # MOIDs: Me  1.5377 Ve  1.1731 Ea  0.9050 Ma  0.2272
 # MOIDs: Ju  2.2016 Sa  6.7811 Ur 16.3592 Ne 27.1587
-# Elements written: 23 Oct 2016 18:25:31 (JD 2457685.267720)
+# Elements written: 25 Oct 2016 16:32:41 (JD 2457687.189363)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
@@ -1625,7 +1625,7 @@ From 4 observations 2016 Feb. 9 (58.1 min); mean residual 0".160.
 #   -6.173358270025 -10.590188581282   1.361799373386 mAU/day
 # MOIDs: Me  1.6984 Ve  1.3513 Ea  1.0834 Ma  0.4057
 # MOIDs: Ju  2.6367 Sa  6.8828 Ur 16.2132 Ne 27.5463
-# Elements written: 23 Oct 2016 18:25:31 (JD 2457685.267720)
+# Elements written: 25 Oct 2016 16:32:41 (JD 2457687.189363)
 # Full range of obs: 2016 Feb. 9 (58.1 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
