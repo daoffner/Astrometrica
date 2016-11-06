@@ -8,7 +8,8 @@ import signal
 #from openpyxl.cell import get_column_letter
 def find_orb():
     #print(threadName)
-    os.system('./fo mpc.txt')
+    os.system("java runFo")
+    #os.system('./fo mpc.txt')
 def delay(threadName, wait):
     print(threadName)
     time.sleep(wait)
