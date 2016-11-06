@@ -1,13 +1,13 @@
 import openpyxl
 import re
 import os
-import thread
+import threading
 import time
 import glob
 import signal
 #from openpyxl.cell import get_column_letter
-def find_orb(threadName):
-    print(threadName)
+def find_orb():
+    #print(threadName)
     os.system('./fo mpc.txt')
 def delay(threadName, wait):
     print(threadName)
@@ -75,12 +75,19 @@ for j in range(int(y)):
 #    f.write("     "+mpcArray[k]+'\n')
 
 f.close()
-thread.start_new_thread(find_orb, ("Thread-1", ))
+t = threading.Thread(target= find_orb)
+t.daemon= True
+t.start()
+#thread.start_new_thread(find_orb, ("Thread-1", ))
 #thread.start_new_thread(delay, ("Thread-2" , 20, ))
 #os.system('./fo mpc.txt')
 #os.remove('MPCORB.DAT')
-#os.rename('mpc_fmt.txt','MPCORB.DAT')
-time.sleep(180)
+#os.rename('mpc_fmt.txt','MPCORB.DAT'
+time.sleep(20)
+#c= chr(3)
+#os.system(c)
+#t.join()
+#t._stop.set()
 os.remove('MPCORB.DAT')
 os.rename('mpc_fmt.txt','MPCORB.DAT')
 os.system('cp -u MPCORB.DAT /mnt/c/Astrometrica/Catalogs')
