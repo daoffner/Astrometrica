@@ -6,7 +6,7 @@ public class runFo{
    {
       Thread findOrb= new Thread(new fo("./fo mpc.txt"));
       findOrb.start();
-      Thread.sleep(160000);
+      Thread.sleep(25000);
       findOrb.stop();
       findOrb.join();
    }
@@ -21,13 +21,21 @@ public class runFo{
          String s= null;
          try{
             Runtime rt = Runtime.getRuntime();
-            Process pr = rt.exec(new String[] { "sh",  "-c", command });
-            pr.waitFor();
-            BufferedReader buf = new BufferedReader(new InputStreamReader(pr.getInputStream()));
-            String line = "";
-            while ((line=buf.readLine())!=null) {
-            System.out.println(line);   	   
-            }
+            System.out.println(rt);
+            System.out.println(command);
+            Process p= new ProcessBuilder(command).start();
+            //Process p = rt.exec("ls");
+            //Process pr = rt.exec("./fo mpc.txt");
+            System.out.println(p);
+            //Process pr = rt.exec("/bin/bash -c python ExcelReader.py");
+            //Process pr = rt.exec("cmd /c "+command);
+            //Process pr = rt.exec(new String[] { "sh",  "-c", command });
+            //pr.waitFor();
+            //BufferedReader buf = new BufferedReader(new InputStreamReader(pr.getInputStream()));
+            //String line = "";
+            //while ((line=buf.readLine())!=null) {
+            //System.out.println(line);   	   
+            //}
          }   
          catch(Exception e){
          
