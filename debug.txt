@@ -208,3 +208,93 @@
 15:14:12 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
 15:14:12  4 observations loaded
 15:14:12 2016 Mar. 31 (54.6 min)
+19:47:28 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+19:47:28 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+19:47:28 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+19:47:28 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+19:47:28  4 observations loaded
+19:47:28 2016 Mar. 31 (54.6 min)
+19:49:43 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+19:49:43 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+19:49:43 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+19:49:43 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+19:49:43  4 observations loaded
+19:49:43 2016 Mar. 31 (54.6 min)
+20:06:30 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+20:06:30 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+20:06:30 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+20:06:30 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+20:06:30  4 observations loaded
+20:06:30 2016 Mar. 31 (54.6 min)
+20:08:12 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+20:08:12 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+20:08:12 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+20:08:12 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+20:08:12  4 observations loaded
+20:08:12 2016 Mar. 31 (54.6 min)
+20:10:44 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+20:10:44 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+20:10:44 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+20:10:44 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+20:10:44  4 observations loaded
+20:10:44 2016 Mar. 31 (54.6 min)
+23:28:01 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+23:28:01 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+23:28:01 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+23:28:01 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+23:28:01  4 observations loaded
+23:28:01 2016 Mar. 31 (54.6 min)
+00:18:57 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+00:18:57 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+00:18:57 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+00:18:57 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+00:18:57  4 observations loaded
+00:18:57 2016 Mar. 31 (54.6 min)
+03:56:19 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+03:56:19 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+03:56:19 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+03:56:19 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+03:56:19  4 observations loaded
+03:56:19 2016 Mar. 31 (54.6 min)
+04:03:15 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+04:03:15 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+04:03:15 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+04:03:15 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+04:03:15  4 observations loaded
+04:03:15 2016 Mar. 31 (54.6 min)
+04:17:35 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+04:17:35 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+04:17:35 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+04:17:35 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+04:17:35  4 observations loaded
+04:17:35 2016 Mar. 31 (54.6 min)
+04:19:46 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+04:19:46 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+04:19:46 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+04:19:46 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+04:19:46  4 observations loaded
+04:19:46 2016 Mar. 31 (54.6 min)
+04:21:30 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+04:21:30 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+04:21:30 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+04:21:30 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+04:21:30  4 observations loaded
+04:21:30 2016 Mar. 31 (54.6 min)
+04:29:33 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+04:29:33 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+04:29:33 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+04:29:33 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+04:29:33  4 observations loaded
+04:29:33 2016 Mar. 31 (54.6 min)
+04:30:59 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+04:30:59 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+04:30:59 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+04:30:59 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+04:30:59  4 observations loaded
+04:30:59 2016 Mar. 31 (54.6 min)
+04:32:15 Duplicate found with JD 2457478.899776 = 31.399776 Mar 2016
+04:32:15 Duplicate found with JD 2457478.912489 = 31.412489 Mar 2016
+04:32:15 Duplicate found with JD 2457478.925114 = 31.425114 Mar 2016
+04:32:15 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
+04:32:15  4 observations loaded
+04:32:15 2016 Mar. 31 (54.6 min)
