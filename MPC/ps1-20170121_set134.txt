@@ -1,0 +1,13 @@
+COD F51
+OBS N. Primak, A. Schultz, S. Watters, J. Thiel, T. Goggia
+MEA G. Dietze (Max-Born-Gymnasium Backnang, Germany)
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2017.01.24 20:21:33
+NET PPMXL
+
+image set: ps1-20170121_set134
+
+     MBG8001  C2017 01 21.26936004 35 52.776+07 13 29.48         21.2 R      F51
+     MBG8001  C2017 01 21.28113604 35 53.025+07 13 38.16         20.8 R      F51
+
+----- end -----

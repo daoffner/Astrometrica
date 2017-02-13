@@ -58,12 +58,15 @@ f= open("mpc.txt", "w")
 g= open("image.txt", "w")
 k= 0
 size=0
+#for no spreedsheet
+#for j in range(i):
+#    f.write("     "+mpcArray[j]+'\n')
+#    size = 42
 for j in range(int(y)):
-    for i in range(len(mpcArray)):
         name= sheet['A'+str(j+1)].value
         image= sheet['F'+str(j+1)].value
         #print(re.search(name, mpcArray[i], flags=0))
-        regex= re.search(name, mpcArray[i], flags=0)        #Searches for Objects that are in both files
+       regex= re.search(name, mpcArray[i], flags=0)        #Searches for Objects that are in both files
         if regex:
             f.write("     "+mpcArray[i]+'\n')               #Writes a new MPC Report need to create an orbit
             size=size+1
