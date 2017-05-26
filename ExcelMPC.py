@@ -7,8 +7,6 @@ import glob
 
 def find_orb():
     os.system("./fo mpc.txt")
-    #os.system("javac runFo.java")
-    #os.system("java runFo")
 
 wb = openpyxl.load_workbook('Possibles 3.xlsx', data_only=True)
 sheet = wb.get_sheet_by_name('Sheet1')
@@ -20,48 +18,24 @@ y=str(sheet.max_row)
 #print(y)               Prints the row size of the sheet; needed for testing
 tuple (sheet['A1' : x+y])
 
-#for rowOfCellObjects in sheet['A1' : x+y]:
-#   for cellObj in rowOfCellObjects:
-#        print(cellObj.coordinate, cellObj.value)
-#
-#    print("-
-# --------- END OF ROW --------------")
 path= 'MPC'
 dirs = os.listdir("MPC")
-#dirs = os.listdir(os.path.dirname(path))
-#for file in dirs:
-#   print (file)
 mpcArray= []
 imageArray= []
 i=0
-#New code to test
+
 for filename in glob.glob(os.path.join(path, '*.txt')):
-    #print(filename)
     r= open(filename, "r")
     for line in r.readlines():
         mpcArray.append(line.strip())
-        #print(mpcArray[i])
         i=i+1
-#    i=i+1
     r.close()
-#end of new code
 
-#old code
-#for j in range(10):
-#    r= open("MPC Report"+str(j+1)+".txt", "r")
-#    for line in r.readlines():
-#        mpcArray.append(line.strip())       #Combines all the MPC reports into one list
-#        i=i+1
-#    i=i+1
-#r.close()
 f= open("mpc.txt", "w")
 g= open("image.txt", "w")
 k= 0
 size=0
-#for no spreedsheet
-#for j in range(i):
-#    f.write("     "+mpcArray[j]+'\n')
-#    size = 42
+
 for j in range(int(y)):
         name= sheet['A'+str(j+1)].value
         image= sheet['F'+str(j+1)].value
@@ -78,19 +52,15 @@ for j in range(int(y)):
             else:
                     imageArray.append(image)
                     g.write(image+'\n')
-            #k=k+1
-            #print(imageArray)
-            #print(type(mpcArray[i]))
             mpcArray[i]= "0"
-            #print(regex)
 
-print(size)
 f.close()
+g.close()
 t = threading.Thread(target= find_orb)
 t.daemon= True
 t.start()
 
-time.sleep(size/8)
+time.sleep(size/4)
 os.system("killall -9 fo")
 os.remove('MPCORB.DAT')
 os.rename('mpc_fmt.txt','MPCORB.DAT')

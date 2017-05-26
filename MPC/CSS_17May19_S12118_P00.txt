@@ -1,0 +1,12 @@
+COD G96
+MEA D. Martins & P. Guerra (NUCLIO NEO Search Team 1, Portugal)
+TEL 1.5-m reflector + CCD
+ACK MPCReport file updated 2017.05.23 16:13:59
+NET UCAC-3
+
+Image set: CSS_17May19_S12118_P00
+
+No moving objects detected
+
+----- end -----
+

@@ -1,0 +1,14 @@
+COD F51
+OBS N. Primak, A. Schultz, S. Watters, J. Thiel, T. Goggia
+MEA A. Mikulich, K. Dzibrova (Astronomy Club - Minsk, Belarus)
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2017.04.01 00:39:20
+NET PPMXL
+
+Image Set:  ps1-20170327_2_set156
+
+     MPB0008  C2017 03 27.51144513 43 33.032-16 13 55.47         21.4 R      F51
+     MPB0008  C2017 03 27.52143613 43 32.605-16 13 53.83         21.6 R      F51
+     MPB0008  C2017 03 27.53144613 43 32.166-16 13 52.24         21.4 R      F51
+     MPB0008  C2017 03 27.54144513 43 31.724-16 13 51.34         21.2 R      F51
+----- end -----

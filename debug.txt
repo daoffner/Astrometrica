@@ -298,3 +298,9 @@
 04:32:15 Duplicate found with JD 2457478.937710 = 31.437710 Mar 2016
 04:32:15  4 observations loaded
 04:32:15 2016 Mar. 31 (54.6 min)
+21:05:25 Failed full step: -1
+21:09:41 Failed full step: -1
+14:12:08 Failed full step: -1
+14:38:10 Failed full step: -1
+14:40:56 Failed full step: -1
+14:43:16 Failed full step: -1

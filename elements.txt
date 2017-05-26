@@ -1,130 +1,156 @@
 Orbital elements: 
-MBG2001
-   Perihelion 2014 Apr 1.276889 TT =  6:38:43 (JD 2456748.776889)
-Epoch 2017 Jan 20.0 TT = JDT 2457773.5                  Find_Orb
-M 179.07343              (2000.0)            P               Q
-n   0.17475299     Peri.  136.73400      0.65836706      0.75247273     
-a   3.16849449     Node   174.35124     -0.73142874      0.64533539     
-e   0.0158188      Incl.   10.75853     -0.17766484      0.13163211     
-P   5.64           H   17.5     G   0.15   q 3.11837254  Q 3.21861643
-From 4 observations 2017 Jan. 20 (55.3 min); mean residual 0".079.
+EPM0307
+   Perihelion 2017 May 20.501864 TT = 12:02:41 (JD 2457894.001864)
+Epoch 2017 May 19.0 TT = JDT 2457892.5                  Find_Orb
+M 359.67367              (2000.0)            P               Q
+n   0.21727962     Peri.   26.41116     -0.30313686      0.93795866     
+a   2.74024911     Node   226.47190     -0.91024488     -0.33729004     
+e   0.1665310      Incl.   13.42630     -0.28206787      0.08042989     
+P   4.54           H   16.5     G   0.15   q 2.28391258  Q 3.19658565
+From 4 observations 2017 May 19 (17.9 min); mean residual 0".109.
 # State vector (heliocentric ecliptic J2000):
-#   -2.080817124998   2.419592247534  -0.418598075004 AU
-#   -7.256540817318  -6.017028242754   1.273461877267 mAU/day
-# MOIDs: Me  2.6859 Ve  2.4016 Ea  2.1139 Ma  1.5482
-# MOIDs: Ju  1.8136 Sa  5.8843 Ur 15.0815 Ne 26.6627
-# Elements written: 13 Feb 2017 17:55:51 (JD 2457798.247118)
-# Full range of obs: 2017 Jan. 20 (55.3 min) (4 observations)
+#   -0.709636803947  -2.158443330292   0.232041709055 AU
+#   11.505025095074  -3.491736066640   2.565359211380 mAU/day
+# MOIDs: Me  1.8244 Ve  1.5628 Ea  1.2783 Ma  0.7591
+# MOIDs: Ju  1.8418 Sa  5.8631 Ur 15.6583 Ne 26.6385
+# Elements written: 26 May 2017 14:43:16 (JD 2457900.113380)
+# Full range of obs: 2017 May 19 (17.9 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
-# Tisserand relative to Earth: 3.81265
-# Tisserand relative to Jupiter: 3.17527
-# Tisserand relative to Neptune: 10.12773
-# %20$Name=MBG2001  $Ty=2014  $Tm=04  $Td=01.276888  $MA=179.07344
-#  $ecc=0.0158189  $Eqnx=2000.
-#  $a=3.1684945  $Peri=136.73400  $Node=174.35125  $Incl=10.75854
-#  $EpJD=2457773.500  $q=3.118373  $T=2456748.776889  $H=17.4
+# Tisserand relative to Earth: 3.54022
+# Tisserand relative to Jupiter: 3.29086
+# Tisserand relative to Neptune: 11.55215
+# %20$Name=EPM0307  $Ty=2017  $Tm=05  $Td=20.501863  $MA=359.67368
+#  $ecc=0.1665310  $Eqnx=2000.
+#  $a=2.7402491  $Peri=26.41117  $Node=226.47191  $Incl=13.42631
+#  $EpJD=2457892.500  $q=2.283913  $T=2457894.001864  $H=16.4
 Orbital elements: 
-MBG2002
-   Perihelion 2017 Jan 20.443151 TT = 10:38:08 (JD 2457773.943151)
-Epoch 2017 Jan 20.0 TT = JDT 2457773.5   Earth MOID: 0.9146
-M 359.88100              (2000.0)            P               Q
-n   0.26852042     Peri.  310.88701     -0.60708253     -0.79460464     
-a   2.37949335     Node   176.46775      0.76028534     -0.58350822     
-e   0.2050366      Incl.    6.86572      0.23112114     -0.16769495     
-P   3.67           H   20.4     G   0.15   q 1.89161002  Q 2.86737667
-From 4 observations 2017 Jan. 20 (55.3 min); mean residual 0".046.
+EPM0308
+   Perihelion 2016 Oct 11.375844 TT =  9:01:12 (JD 2457672.875844)
+Epoch 2017 May 19.0 TT = JDT 2457892.5   Earth MOID: 0.0458
+M 179.66277              (2000.0)            P               Q
+n   0.81804653     Peri.  289.17854      0.45153510     -0.89183242     
+a   1.13227185     Node   133.94759      0.83226177      0.40990523     
+e   0.1029430      Incl.    2.18134      0.32164636      0.19134427     
+P   1.20/440.06d   H   20.7     G   0.15   q 1.01571228  Q 1.24883141
+From 3 observations 2017 May 19 (11.9 min); mean residual 1".474.
 # State vector (heliocentric ecliptic J2000):
-#   -1.143523809254   1.497050504509  -0.171428939236 AU
-#  -10.932003428193  -8.237273347510   1.071032048892 mAU/day
-# MOIDs: Me  1.5692 Ve  1.1838 Ea  0.9146 Ma  0.2945
-# MOIDs: Ju  2.2219 Sa  6.9259 Ur 16.2442 Ne 27.1951
-# Elements written: 13 Feb 2017 17:55:51 (JD 2457798.247118)
-# Full range of obs: 2017 Jan. 20 (55.3 min) (4 observations)
+#   -0.569243863360  -1.110637152830   0.044969995553 AU
+#   12.966893271949  -6.662347941700  -0.179486620159 mAU/day
+# MOIDs: Me  0.7047 Ve  0.2946 Ea  0.0458 Ma  0.2210
+# MOIDs: Ju  3.8850 Sa  7.9899 Ur 17.1221 Ne 28.7872
+# Elements written: 26 May 2017 14:43:20 (JD 2457900.113426)
+# Full range of obs: 2017 May 19 (11.9 min) (3 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
-# Tisserand relative to Earth: 3.41818
-# Tisserand relative to Jupiter: 3.50099
-# Tisserand relative to Neptune: 13.18344
-# %20$Name=MBG2002  $Ty=2017  $Tm=01  $Td=20.443150  $MA=359.88101
-#  $ecc=0.2050366  $Eqnx=2000.
-#  $a=2.3794934  $Peri=310.88702  $Node=176.46775  $Incl=6.86572
-#  $EpJD=2457773.500  $q=1.891610  $T=2457773.943151  $H=20.4
+# Tisserand relative to Earth: 2.99851
+# Tisserand relative to Jupiter: 5.52279
+# Tisserand relative to Neptune: 26.94210
+# %20$Name=EPM0308  $Ty=2016  $Tm=10  $Td=11.375844  $MA=179.66278
+#  $ecc=0.1029431  $Eqnx=2000.
+#  $a=1.1322719  $Peri=289.17854  $Node=133.94759  $Incl=2.18134
+#  $EpJD=2457892.500  $q=1.015712  $T=2457672.875844  $H=20.7
 Orbital elements: 
-MBG2003
-   Perihelion 2017 Jan 20.484785 TT = 11:38:05 (JD 2457773.984785)
-Epoch 2017 Jan 20.0 TT = JDT 2457773.5   Earth MOID: 0.7660
-M 359.86398              (2000.0)            P               Q
-n   0.28057479     Peri.  265.73366     -0.59873452     -0.79908769     
-a   2.31084212     Node   221.20722      0.76378599     -0.54912417     
-e   0.2457259      Incl.    4.74984      0.24113879     -0.24478865     
-P   3.51           H   20.9     G   0.15   q 1.74300834  Q 2.87867589
-From 4 observations 2017 Jan. 20 (55.3 min); mean residual 0".067.
+JPA0003
+   Perihelion 2017 May 20.150075 TT =  3:36:06 (JD 2457893.650075)
+Epoch 2017 May 19.0 TT = JDT 2457892.5                  Find_Orb
+M 359.69129              (2000.0)            P               Q
+n   0.26842005     Peri.   87.83118     -0.32271274      0.94594116     
+a   2.38008650     Node   163.23110     -0.90693868     -0.29924110     
+e   0.1303133      Incl.    6.45422     -0.27077427     -0.12510027     
+P   3.67           H   16.8     G   0.15   q 2.06992946  Q 2.69024355
+From 4 observations 2017 May 19 (17.9 min); mean residual 0".121.
 # State vector (heliocentric ecliptic J2000):
-#   -1.037958833214   1.392848172810  -0.143886457202 AU
-#  -11.649031800610  -8.705105440499  -0.093483191193 mAU/day
-# MOIDs: Me  1.4212 Ve  1.0345 Ea  0.7660 Ma  0.2156
-# MOIDs: Ju  2.2261 Sa  6.9931 Ur 16.3626 Ne 27.1999
-# Elements written: 13 Feb 2017 17:55:51 (JD 2457798.247118)
-# Full range of obs: 2017 Jan. 20 (55.3 min) (4 observations)
+#   -0.681806857932  -1.940551740410   0.232445677859 AU
+#   11.998607615965  -4.197087148829   0.062996511766 mAU/day
+# MOIDs: Me  1.6116 Ve  1.3505 Ea  1.0682 Ma  0.5482
+# MOIDs: Ju  2.3510 Sa  6.3604 Ur 15.9452 Ne 27.1460
+# Elements written: 26 May 2017 14:43:20 (JD 2457900.113426)
+# Full range of obs: 2017 May 19 (17.9 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
-# Tisserand relative to Earth: 3.36970
-# Tisserand relative to Jupiter: 3.53922
-# Tisserand relative to Neptune: 13.54774
-# %20$Name=MBG2003  $Ty=2017  $Tm=01  $Td=20.484784  $MA=359.86398
-#  $ecc=0.2457259  $Eqnx=2000.
-#  $a=2.3108421  $Peri=265.73366  $Node=221.20722  $Incl=4.74985
-#  $EpJD=2457773.500  $q=1.743008  $T=2457773.984785  $H=20.9
+# Tisserand relative to Earth: 3.45996
+# Tisserand relative to Jupiter: 3.51880
+# Tisserand relative to Neptune: 13.18793
+# %20$Name=JPA0003  $Ty=2017  $Tm=05  $Td=20.150075  $MA=359.69130
+#  $ecc=0.1303133  $Eqnx=2000.
+#  $a=2.3800865  $Peri=87.83119  $Node=163.23110  $Incl=6.45423
+#  $EpJD=2457892.500  $q=2.069929  $T=2457893.650075  $H=16.7
 Orbital elements: 
-MBG4001
-   Perihelion 2017 Jan 20.482962 TT = 11:35:27 (JD 2457773.982962)
-Epoch 2017 Jan 20.0 TT = JDT 2457773.5   Earth MOID: 0.6409   Ma: 0.0969
-M 359.85841              (2000.0)            P               Q
-n   0.29315759     Peri.  304.92785     -0.53944463     -0.84201408     
-a   2.24423647     Node   177.70974      0.79783839     -0.51243731     
-e   0.2785191      Incl.    4.92599      0.26917166     -0.16858317     
-P   3.36           H   21.1     G   0.15   q 1.61917361  Q 2.86929934
-From 4 observations 2017 Jan. 20 (55.3 min); mean residual 0".043.
+JPA0004
+   Perihelion 2017 May 19.183374 TT =  4:24:03 (JD 2457892.683374)
+Epoch 2017 May 19.0 TT = JDT 2457892.5   Earth MOID: 0.6147
+M 359.94517              (2000.0)            P               Q
+n   0.29898729     Peri.  109.53189     -0.38211017      0.92220383     
+a   2.21496853     Node   137.84949     -0.87759495     -0.34197530     
+e   0.2689857      Incl.    5.08068     -0.28951496     -0.18053526     
+P   3.30           H   17.9     G   0.15   q 1.61917363  Q 2.81076344
+From 4 observations 2017 May 19 (17.9 min); mean residual 0".553.
 # State vector (heliocentric ecliptic J2000):
-#   -0.867231295506   1.362559349241  -0.114354614904 AU
-#  -12.900165375908  -8.165891119607   0.747664871677 mAU/day
-# MOIDs: Me  1.2999 Ve  0.9089 Ea  0.6409 Ma  0.0969
-# MOIDs: Ju  2.2410 Sa  7.0511 Ur 16.4293 Ne 27.2281
-# Elements written: 13 Feb 2017 17:55:52 (JD 2457798.247130)
-# Full range of obs: 2017 Jan. 20 (55.3 min) (4 observations)
+#   -0.621277294549  -1.489111900651   0.135222702869 AU
+#   14.036048969508  -5.890760150724  -0.449162163570 mAU/day
+# MOIDs: Me  1.1591 Ve  0.8973 Ea  0.6147 Ma  0.1537
+# MOIDs: Ju  2.2337 Sa  6.2457 Ur 16.1436 Ne 27.0202
+# Elements written: 26 May 2017 14:43:20 (JD 2457900.113426)
+# Full range of obs: 2017 May 19 (17.9 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
-# Tisserand relative to Earth: 3.31256
-# Tisserand relative to Jupiter: 3.57537
-# Tisserand relative to Neptune: 13.92115
-# %20$Name=MBG4001  $Ty=2017  $Tm=01  $Td=20.482962  $MA=359.85842
-#  $ecc=0.2785192  $Eqnx=2000.
-#  $a=2.2442365  $Peri=304.92786  $Node=177.70975  $Incl=4.92600
-#  $EpJD=2457773.500  $q=1.619174  $T=2457773.982962  $H=21.1
+# Tisserand relative to Earth: 3.30706
+# Tisserand relative to Jupiter: 3.60101
+# Tisserand relative to Neptune: 14.09612
+# %20$Name=JPA0004  $Ty=2017  $Tm=05  $Td=19.183374  $MA=359.94517
+#  $ecc=0.2689857  $Eqnx=2000.
+#  $a=2.2149685  $Peri=109.53190  $Node=137.84949  $Incl=5.08068
+#  $EpJD=2457892.500  $q=1.619174  $T=2457892.683374  $H=17.8
 Orbital elements: 
-MBG6001
-   Perihelion 2016 Aug 29.740956 TT = 17:46:58 (JD 2457630.240956)
-Epoch 2017 Jan 20.0 TT = JDT 2457773.5   Earth MOID: 0.9478
-M  42.83015              (2000.0)            P               Q
-n   0.29897001     Peri.  167.11667      0.34429086     -0.92884096     
-a   2.21505388     Node   262.61572      0.84869184      0.37021681     
-e   0.1274170      Incl.    7.92975      0.40147969      0.01392714     
-P   3.30           H   18.3     G   0.15   q 1.93281832  Q 2.49728944
-From 2 observations 2017 Jan. 20 (19.4 min); mean residual 0".000.
+JPA0005
+   Perihelion 2017 May 19.034908 TT =  0:50:16 (JD 2457892.534908)
+Epoch 2017 May 19.0 TT = JDT 2457892.5                  Find_Orb
+M 359.99043              (2000.0)            P               Q
+n   0.27413986     Peri.   83.40182     -0.32756125      0.94451537     
+a   2.34686398     Node   167.39504     -0.90500688     -0.30623856     
+e   0.1180010      Incl.    6.41404     -0.27141511     -0.11877979     
+P   3.60           H   17.0     G   0.15   q 2.06993150  Q 2.62379646
+From 4 observations 2017 May 19 (17.9 min); mean residual 0".073.
 # State vector (heliocentric ecliptic J2000):
-#   -1.112788527198   1.684499024097  -0.183871749237 AU
-#  -10.988356595315  -5.967547657676  -1.411050866417 mAU/day
-# MOIDs: Me  1.6247 Ve  1.2126 Ea  0.9478 Ma  0.3821
-# MOIDs: Ju  2.7639 Sa  7.0612 Ur 16.0296 Ne 27.7651
-# Elements written: 13 Feb 2017 17:55:53 (JD 2457798.247141)
-# Full range of obs: 2017 Jan. 20 (19.4 min) (2 observations)
+#   -0.678446173960  -1.942051799216   0.229699936415 AU
+#   11.940014843180  -4.151656092711   0.162548293061 mAU/day
+# MOIDs: Me  1.6115 Ve  1.3504 Ea  1.0680 Ma  0.5390
+# MOIDs: Ju  2.4094 Sa  6.4257 Ur 15.9786 Ne 27.2102
+# Elements written: 26 May 2017 14:43:20 (JD 2457900.113426)
+# Full range of obs: 2017 May 19 (17.9 min) (4 observations)
 # Find_Orb ver: Sep  6 2012 00:42:31
 # Perturbers: 00000000 (unperturbed orbit)
-# Tisserand relative to Earth: 3.37558
-# Tisserand relative to Jupiter: 3.63097
-# Tisserand relative to Neptune: 14.10809
-# %20$Name=MBG6001  $Ty=2016  $Tm=08  $Td=29.740955  $MA=42.83016
-#  $ecc=0.1274170  $Eqnx=2000.
-#  $a=2.2150539  $Peri=167.11667  $Node=262.61573  $Incl=7.92975
-#  $EpJD=2457773.500  $q=1.932818  $T=2457630.240956  $H=18.3
+# Tisserand relative to Earth: 3.44955
+# Tisserand relative to Jupiter: 3.54258
+# Tisserand relative to Neptune: 13.36379
+# %20$Name=JPA0005  $Ty=2017  $Tm=05  $Td=19.034908  $MA=359.99043
+#  $ecc=0.1180011  $Eqnx=2000.
+#  $a=2.3468640  $Peri=83.40183  $Node=167.39505  $Incl=6.41404
+#  $EpJD=2457892.500  $q=2.069932  $T=2457892.534908  $H=16.9
+Orbital elements: 
+JPA0006
+   Perihelion 2017 May 19.284719 TT =  6:49:59 (JD 2457892.784719)
+Epoch 2017 May 19.0 TT = JDT 2457892.5   Earth MOID: 0.5097
+M 359.92378              (2000.0)            P               Q
+n   0.26767166     Peri.  119.12584     -0.39638448      0.91587595     
+a   2.38452079     Node   127.38255     -0.86770810     -0.35108546     
+e   0.3642421      Incl.    4.59407     -0.29993663     -0.19470550     
+P   3.68           H   17.7     G   0.15   q 1.51597789  Q 3.25306369
+From 4 observations 2017 May 19 (17.9 min); mean residual 0".158.
+# State vector (heliocentric ecliptic J2000):
+#   -0.605163379787  -1.385887018748   0.106250679593 AU
+#   14.931155937701  -6.553829559576  -0.633610749053 mAU/day
+# MOIDs: Me  1.0551 Ve  0.7931 Ea  0.5097 Ma  0.1049
+# MOIDs: Ju  1.7944 Sa  5.8088 Ur 15.8939 Ne 26.5765
+# Elements written: 26 May 2017 14:43:20 (JD 2457900.113426)
+# Full range of obs: 2017 May 19 (17.9 min) (4 observations)
+# Find_Orb ver: Sep  6 2012 00:42:31
+# Perturbers: 00000000 (unperturbed orbit)
+# Tisserand relative to Earth: 3.28635
+# Tisserand relative to Jupiter: 3.43897
+# Tisserand relative to Neptune: 13.13292
+# %20$Name=JPA0006  $Ty=2017  $Tm=05  $Td=19.284718  $MA=359.92379
+#  $ecc=0.3642421  $Eqnx=2000.
+#  $a=2.3845208  $Peri=119.12585  $Node=127.38255  $Incl=4.59408
+#  $EpJD=2457892.500  $q=1.515978  $T=2457892.784719  $H=17.6

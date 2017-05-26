@@ -1,88 +1,79 @@
-     COD F51
-     OBS N. Primak, A. Schultz, S. Watters, J. Thiel, T. Goggia
-     MEA G. Dietze (Max-Born-Gymnasium Backnang, Germany)
-     TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
-     ACK MPCReport file updated 2017.01.23 16:37:21
-     NET PPMXL
+     COD G96
+     MEA D. Martins & P. Guerra (NUCLIO NEO Search Team 1, Portugal)
+     TEL 1.5-m reflector + CCD
+     ACK MPCReport file updated 2017.05.23 16:13:59
+     NET UCAC-3
      
-     image set: ps1-20170120_1_set058
+     Image set: CSS_17May19_S12118_P00
      
-     MBG2001  C2017 01 20.46698708 58 43.347+06 04 22.40         21.4 R      F51
-     MBG2001  C2017 01 20.48043708 58 42.756+06 04 25.68         21.8 R      F51
-     MBG2001  C2017 01 20.49290308 58 42.195+06 04 28.90         21.9 R      F51
-     MBG2001  C2017 01 20.50538308 58 41.652+06 04 31.68         22.0 R      F51
-     
-     MBG2002  C2017 01 20.46698708 58 39.798+06 07 24.83         21.7 R      F51
-     MBG2002  C2017 01 20.48043708 58 39.142+06 07 29.12         21.6 R      F51
-     MBG2002  C2017 01 20.49290308 58 38.536+06 07 33.34         21.8 R      F51
-     MBG2002  C2017 01 20.50538308 58 37.937+06 07 37.43         22.1 R      F51
-     
-     MBG2003  C2017 01 20.46698708 58 40.955+06 04 21.76         21.5 R      F51
-     MBG2003  C2017 01 20.48043708 58 40.297+06 04 22.36         21.9 R      F51
-     MBG2003  C2017 01 20.49290308 58 39.674+06 04 22.83         21.9 R      F51
-     MBG2003  C2017 01 20.50538308 58 39.069+06 04 23.62         21.7 R      F51
+     No moving objects detected
      
      ----- end -----
-     COD F51
-     OBS N. Primak, A. Schultz, S. Watters, J. Thiel, T. Goggia
-     MEA L. Fuchs, M. Stopp, G. Dietze (Max-Born-Gymnasium Backnang, Germany)
-     TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
-     ACK MPCReport file updated 2017.01.24 09:39:01
-     NET PPMXL
      
-     image set: ps1-20170120_3_set204
+     COD G96
+     MEA D. Martins & P. Guerra (NUCLIO NEO Search Team 1, Portugal)
+     TEL 1.5-m reflector + CCD
+     ACK MPCReport file updated 2017.05.24 10:08:52
+     NET UCAC-3
      
-     MBG4001  C2017 01 20.46104908 24 57.437+08 46 20.30         21.3 R      F51
-     MBG4001  C2017 01 20.47452508 24 56.797+08 46 24.85         21.2 R      F51
-     MBG4001  C2017 01 20.48699808 24 56.214+08 46 29.10         21.0 R      F51
-     MBG4001  C2017 01 20.49945308 24 55.619+08 46 33.45         21.6 R      F51
+     Image set: CSS_17May19_S12118_P01
      
-     J4388         C2017 01 20.46104908 25 20.967+08 48 09.94         18.7 R      F51
-     J4388         C2017 01 20.47452508 25 20.117+08 48 12.02         18.9 R      F51
-     J4388         C2017 01 20.48699808 25 19.322+08 48 13.87         19.0 R      F51
-     J4388         C2017 01 20.49945308 25 18.529+08 48 15.81         19.2 R      F51
+     EPM0307  C2017 05 19.38485717 29 03.615-13 09 08.42         19.2 R      G96
+     EPM0307  C2017 05 19.38898317 29 03.436-13 09 05.95         19.2 R      G96
+     EPM0307  C2017 05 19.39313417 29 03.299-13 09 03.59         18.9 R      G96
+     EPM0307  C2017 05 19.39727217 29 03.132-13 09 01.45         19.1 R      G96
      
-     ----- end -----
-     COD F51
-     OBS N. Primak, A. Schultz, S. Watters, J. Thiel, T. Goggia
-     MEA G. Dietze (Max-Born-Gymnasium Backnang, Germany)
-     TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
-     ACK MPCReport file updated 2017.01.24 21:30:45
-     NET PPMXL
-     
-     image set: ps1-20170120_3_set206
-     
-     MBG6001  C2017 01 20.46104908 26 11.092+08 49 51.27         20.2 R      F51
-     MBG6001  C2017 01 20.47452508 26 10.126+08 49 50.75         19.7 R      F51
+     EPM0308  C2017 05 19.38485717 29 27.638-13 14 01.42         18.4 R      G96
+     EPM0308  C2017 05 19.38898317 29 27.511-13 14 00.98         19.1 R      G96
+     EPM0308  C2017 05 19.39313417 29 26.781-13 13 59.35         19.0 R      G96
      
      ----- end -----
-     COD F51
-     OBS N. Primak, A. Schultz, S. Watters, J. Thiel, T. Goggia
-     MEA G. Dietze (Max-Born-Gymnasium Backnang, Germany)
-     TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
-     ACK MPCReport file updated 2017.01.24 21:01:34
-     NET PPMXL
      
-     image set: ps1-20170120_3_set207
+     COD G96
+     MEA J. Alves, J. Novo & T. Simões (NUCLIO NEO Search Team 2, Portugal)
+     TEL 1.5-m reflector + CCD
+     ACK MPCReport file updated 2017.05.24 22:22:53
+     NET UCAC-3
      
-     MBG7001  C2017 01 20.47452508 25 10.014+08 58 13.07         20.3 R      F51
-     MBG7001  C2017 01 20.48699808 25 09.248+08 58 17.00         20.3 R      F51
-     MBG7001  C2017 01 20.49945308 25 08.463+08 58 21.62         20.4 R      F51
+     Image set: CSS_17May19_S12118_P10
      
-     Z5500         C2017 01 20.46104908 25 19.183+09 03 15.68         19.0 R      F51
-     Z5500         C2017 01 20.47452508 25 18.329+09 03 14.63         19.6 R      F51
+     JPA0001  C2017 05 19.38485717 33 01.888-11 30 39.22    17.4 R  G96
+     JPA0001  C2017 05 19.38898317 33 01.722-11 30 37.97    17.6 R  G96
+     JPA0001  C2017 05 19.39313417 33 01.549-11 30 36.73    17.4 R  G96
+     JPA0001  C2017 05 19.39727217 33 01.374-11 30 35.44    17.3 R  G96
      
-     ----- end -----
-     COD F51
-     OBS N. Primak, A. Schultz, S. Watters, J. Thiel, T. Goggia
-     MEA G. Dietze (Max-Born-Gymnasium Backnang, Germany)
-     TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
-     ACK MPCReport file updated 2017.01.24 20:21:33
-     NET PPMXL
+     JPA0002  C2017 05 19.38485717 34 36.102-11 09 48.26    18.8 R  G96
+     JPA0002  C2017 05 19.38898317 34 35.488-11 09 40.17    18.2 R  G96
+     JPA0002  C2017 05 19.39313417 34 35.504-11 09 39.94    18.2 R  G96
+     JPA0002  C2017 05 19.39727217 34 35.452-11 09 39.37    18.4 R  G96
      
-     image set: ps1-20170121_set134
+     ----------------end--------------
+     COD G96
+     MEA J. Alves, J. Novo & T. Simões (NUCLIO NEO Search Team 2, Portugal)
+     TEL 1.5-m reflector + CCD
+     ACK MPCReport file updated 2017.05.24 22:57:03
+     NET UCAC-3
      
-     MBG8001  C2017 01 21.26936004 35 52.776+07 13 29.48         21.2 R      F51
-     MBG8001  C2017 01 21.28113604 35 53.025+07 13 38.16         20.8 R      F51
+     Image set: CSS_17May19_S12118_P11
+     
+     JPA0003  C2017 05 19.38485717 29 14.607-11 12 19.65         18.7 R      G96
+     JPA0003  C2017 05 19.38898317 29 14.439-11 12 19.20         19.0 R      G96
+     JPA0003  C2017 05 19.39313417 29 14.281-11 12 17.98         18.9 R      G96
+     JPA0003  C2017 05 19.39727217 29 14.111-11 12 17.06         18.9 R      G96
+     
+     JPA0004  C2017 05 19.38485717 29 20.434-11 14 55.08         18.3 R      G96
+     JPA0004  C2017 05 19.38898317 29 20.252-11 14 54.54         18.4 R      G96
+     JPA0004  C2017 05 19.39313417 29 20.154-11 14 54.46         18.3 R      G96
+     JPA0004  C2017 05 19.39727217 29 20.182-11 14 53.97         18.5 R      G96
+     
+     JPA0005  C2017 05 19.38485717 29 56.672-11 21 43.14         18.9 R      G96
+     JPA0005  C2017 05 19.38898317 29 56.519-11 21 42.30         19.3 R      G96
+     JPA0005  C2017 05 19.39313417 29 56.340-11 21 41.14         19.1 R      G96
+     JPA0005  C2017 05 19.39727217 29 56.175-11 21 40.29         19.0 R      G96
+     
+     JPA0006  C2017 05 19.38485717 30 16.853-11 58 36.35         17.5 R      G96
+     JPA0006  C2017 05 19.38898317 30 16.837-11 58 36.26         17.6 R      G96
+     JPA0006  C2017 05 19.39313417 30 16.827-11 58 36.65         17.7 R      G96
+     JPA0006  C2017 05 19.39727217 30 16.862-11 58 36.84         18.0 R      G96
      
      ----- end -----
